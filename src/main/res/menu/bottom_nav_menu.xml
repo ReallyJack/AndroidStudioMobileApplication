@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:drawablePadding="20dp"
+        android:icon="@drawable/ic_launcher_foreground"/>
+    <item
+        android:id="@+id/stock"
+        android:title="Stock"
+        android:drawablePadding="20dp"
+        android:icon="@drawable/ic_stock_foreground"/>
+</menu>
